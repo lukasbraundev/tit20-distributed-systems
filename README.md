@@ -11,5 +11,5 @@ Create a UDP Echo Server
 
 The Task is completed at [UPD Echo Server](UDP-echo-client/udp_echo.c) and can be executed by using netcat command:
 ```
-netcat -u locahost 8888
+netcat -u 127.0.0.1 8888
 ```
